@@ -1,2 +1,2 @@
 # analisis-de-se-ales
-gfdddede
+El reto consiste en diseñar un sistema biométrico de reconocimiento de voz que sea capaz de procesar señales de audio y determinar la identidad de un usuario. El sistema deberá ser capaz de grabar la voz, extraer características relevantes (como MFCC, tasa de cruces por cero, pitch, y energía), y luego comparar estas características con un modelo previamente entrenado para identificar a la persona.
